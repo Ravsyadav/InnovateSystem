@@ -14,7 +14,7 @@ const Navbar = () => {
             <Link to="/">
                 <div>
                     <span className='text-3xl font-bold text-dark hover:text-teal-200 transition duration-300 ease-in-out'>
-                        Indosolve Systems
+                        Innovate Systems
                     </span>
                     <div className='w-4 h-4 bg-primary rounded-full'></div>
                 </div>
